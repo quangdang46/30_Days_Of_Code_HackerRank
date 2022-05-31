@@ -1,7 +1,7 @@
 # 30 Days of Code Hackerrank
 # Code chỉ tham khảo,giải quyết còn ngáo 
 
-[Khoá học](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+[Link khoá học](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 Day 0 : Hello, World
 
