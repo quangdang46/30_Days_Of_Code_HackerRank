@@ -1,5 +1,4 @@
 # 30 Days of Code Hackerrank
-[Quang Dang](https://www.hackerrank.com/tranquangdang21)</br>
 [Link khoá học](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 Day 0 : Hello, World
